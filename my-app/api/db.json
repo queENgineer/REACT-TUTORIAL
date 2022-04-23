@@ -1,0 +1,21 @@
+{
+    "users":[
+    {
+    "id" : "1",
+    "name" : "Tugba Korkmaz",
+    "department" : "IT",
+    "salary" : "100"
+  },
+  {
+    "id" : "2",
+    "name" : "Ayfer Kork",
+    "department" : "HR",
+    "salary" : "200"
+  },
+  {
+    "id" : "3",
+    "name" : "Şerif Kaya",
+    "department" : "Business",
+    "salary" : "300"
+  }]
+}

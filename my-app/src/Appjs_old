@@ -1,0 +1,21 @@
+
+import './App.css';
+
+function App() {
+  const isAuth=true;
+  return (
+    <div className="App">
+      <h1>Hello World!</h1>
+      <h4>{1+4}</h4>
+      <h4>{"tugba".toUpperCase()}</h4>
+    <div>
+{isAuth ? <p>Kullanıcı kayıtlı</p>
+:null
+}
+
+    </div>
+    </div>
+  );
+}
+
+export default App;
